@@ -1,6 +1,8 @@
+.vscode
+out
+
 # Mac
 .DS_Store
-
 
 # Prerequisites
 *.d
