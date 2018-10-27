@@ -24,3 +24,10 @@ int main() {
     return 0; 
 } 
 ```
+
+
+<details><summary>Ответ</summary>
+<p>
+infinite loop
+</p>
+</details>
