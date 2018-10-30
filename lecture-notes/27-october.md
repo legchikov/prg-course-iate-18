@@ -1,3 +1,5 @@
+Что выведет на экран программа?
+
 ```cpp 
 #include <iostream> 
 using namespace std; 
