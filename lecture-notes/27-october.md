@@ -1,3 +1,5 @@
+Что выведет на экран программа?
+
 ```cpp 
 #include <iostream> 
 using namespace std; 
@@ -17,3 +19,4 @@ int main() {
 infinite loop
 </p>
 </details>
+
