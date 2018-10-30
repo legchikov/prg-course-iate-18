@@ -1,12 +1,3 @@
-
-// int mask = 1;
-// int i = 1;
-// if(i & mask == 0)
-//     cout << "YES";
-// else 
-//     cout << "NO";
-
-
 // Input from keyboard example
 int val;
 while(cin >> val){
