@@ -2,9 +2,9 @@
     "version": "2.0.0",
     "tasks": [
            {
-            "label": "build 27 october",
+            "label": "build 10 november",
             "type": "shell",
-            "command": "g++ -g 27october.cpp -o out/27october",
+            "command": "g++ -g 10november.cpp -o out/10november",
             "group": "build",
             "problemMatcher": "$gcc"
         }
